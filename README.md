@@ -11,15 +11,10 @@ This setup was created for server owners who are looking for a ready-to-go Survi
 
 # Spawnpoint
 This spawn is built by **LewCziter**
-Link: https://www.planetminecraft.com/project/free-simple-medieval-spawn/
+Link: https://www.planetminecraft.com/project/island-village-4817225/
 > This map has been modified to create crates.
-![Imgur](https://i.imgur.com/OIpb2Rl.png)
+![spawn](https://i.imgur.com/NsL8eKC.png)
 
-# Custom menus
-### Help menu
-![help](https://i.imgur.com/r5r7dRe.png)
-### Kits menu
-![kits](https://i.imgur.com/ouBpHvU.png)
 ### Shop menu
 ![shop](https://i.imgur.com/B8Y0RNl.png)
 
