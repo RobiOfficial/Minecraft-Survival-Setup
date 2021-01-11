@@ -37,7 +37,6 @@ There are 6 kits (3 for donors and 3 for players)
 | Vip | Donor | 36 | /kit vip, /tpahere, /helpop, /hat + Shop additions and crate keys. |
 | Legend | Donor | 43 | All vip permissions, shop additions and crate keys + /kit legend, /feed, /heal, /back |
 | Premium | Donor | 52 | All legend permissions, keys and full access to shop + /gamemode, /jump, /god, /kit premium |
-| Helper | Staff | 55 | Low level moderation access, report tickets access |
 | Moderator | Staff | 58 | Medium level moderation access, medium level report tickets access (more settings) |
 | Admin | Staff | X | Maximum level moderation access, maximum level report tickets access |
 
