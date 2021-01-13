@@ -3,7 +3,7 @@ This setup was created for server owners who are looking for a ready-to-go Survi
 **We lost the final V1 version of this setup! We currently released everything based on our previous map and will update this step-by-step so we don't lose everything again! From here we are going to start building V1!**
 > If you have any problems using this setup or you would like to make suggestions then please add these to issues. This project is just a hobby project which means that I will update it whenever I feel to do so and I will support any player who uses my setup (if I have time to do so). This GitHub page will be updated if anything changes.
 * Native version of this setup is **Minecraft 1.16.4**. Please don't use older versions since it just would not work.
-* Setup version: **V1.0** (first release)
+* Setup version: **0.1.0-beta**
 
 # Helpful links
 * Suggestions and issues: https://github.com/RobiOfficial/Minecraft-Survival-Setup/issues 
