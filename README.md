@@ -2,7 +2,7 @@
 This setup was created for server owners who are looking for a ready-to-go Survival Server setup for Minecraft multiplayer. It is free to use and feel free to make changes as you wish. 
 > If you have any problems using this setup or you would like to make suggestions then please add these to issues. This project is just a hobby project which means that I will update it whenever I feel to do so and I will support any player who uses my setup (if I have time to do so). This GitHub page will be updated if anything changes.
 * Native version of this setup is **Minecraft 1.16.4**. Please don't use older versions since it just would not work.
-* Setup version: **1.0**
+* Setup version: **1.0.0**
 
 # Helpful links
 * Suggestions and issues: https://github.com/RobiOfficial/Minecraft-Survival-Setup/issues 
