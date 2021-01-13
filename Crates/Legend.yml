@@ -1,0 +1,131 @@
+name: §bLegend Crate
+permission-required: false
+template: wander
+cooldown: 15
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -23.0,52.0,11.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §9§l[Legend]
+    - §bCrate
+  effects:
+    type: HELIX
+    particle: SOUL_FIRE_FLAME
+rewards:
+  broadcast: true
+  min: 1
+  max: 1
+  list:
+    df16482c-de25-4074-8ef7-44f8fd409c09:
+      name: Iron Block
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800kdlkmspb3e9gmct1qd5p6urivc9m6uorb0400agrfeln78200
+      preview: 1800020009km800kdlkmspb3e9gmct1qd5p6urivc9m6uorb0400agrfeln78200
+    51cef80a-2ef1-42fa-a86c-b996d5f5e466:
+      name: Heart Of The Sea
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i006jdd5n6aoric5j78ej8clgn4t2vdtj5ut38clfn6pb10400agrfeln78080
+      preview: a0000g002d5i006jdd5n6aoric5j78ej8clgn4t2vdtj5ut38clfn6pb10400agrfeln78080
+    ec1b1609-1249-482f-9252-051297d75d6b:
+      name: Bedrock
+      chance: 5.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3koj5chp6uorb0400agrfeln780g0
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3koj5chp6uorb0400agrfeln780g0
+    e4b25990-3510-44e2-b5ec-bd9814632ecc:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+    948dca1a-95d4-4c30-a4b9-c91e96d3d896:
+      name: Diamond Block
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400bmqqbeclhn4ob6egt68qb1dlnmsp2vc9m6uorb0400agrfeln78100
+      preview: k00010004qb400bmqqbeclhn4ob6egt68qb1dlnmsp2vc9m6uorb0400agrfeln78100
+    4fe92403-a6c4-4284-ae5e-bc5563d8a530:
+      name: Lectern
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kr35cdq6asje0400agrfeln78080
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kr35cdq6asje0400agrfeln78080
+    30eeaee3-3aaa-4127-b8fb-a59a92377b6d:
+      name: Trident
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kt3id5i6arjk18006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kt3id5i6arjk18006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+    dc76c549-d7bd-4d4d-bb16-0f98213539c3:
+      name: Bee Nest
+      chance: 25.0
+      cmds: []
+      item: k00010004qb40096qqbeclhn4ob6egt64pb5btn6asrk0400agrfeln78080
+      preview: k00010004qb40096qqbeclhn4ob6egt64pb5btn6asrk0400agrfeln78080
+    32205e98-0b23-4311-a8ba-53a120a8b034:
+      name: Map
+      chance: 25.0
+      cmds: []
+      item: k00010004qb4006mqqbeclhn4ob6egt6qobg0400agrfeln78080
+      preview: k00010004qb4006mqqbeclhn4ob6egt6qobg0400agrfeln78080
+    790676bc-4ed4-4e60-9cda-3a764993faa3:
+      name: Totem Of Undying
+      chance: 10.0
+      cmds: []
+      item: a0000g002d5i006jdd5n6aoric5j78ejkdtq6aravdtj5utbechsmirj70400agrfeln78080
+      preview: a0000g002d5i006jdd5n6aoric5j78ejkdtq6aravdtj5utbechsmirj70400agrfeln78080
+    e02b84aa-0974-4308-9048-a79199652746:
+      name: Lapis Block
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i005bdd5n6aoric5j78ejcc5o6isqvc9m6uorb0400agrfeln78200
+      preview: a0000g002d5i005bdd5n6aoric5j78ejcc5o6isqvc9m6uorb0400agrfeln78200
+    b9f5328d-9187-4629-bfd4-b28c2b51531a:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00odlkmspb3e9gmct1qedq74rrectfmgpb1dhkmspo00400agrfeln78080
+      preview: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00odlkmspb3e9gmct1qedq74rrectfmgpb1dhkmspo00400agrfeln78080
+    df8c601e-4cd0-4dd8-9c36-8fb823777a0c:
+      name: Crossbow
+      chance: 25.0
+      cmds: []
+      item: k00010004qb40096qqbeclhn4ob6egt66sjfedpm4rrn18006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+      preview: k00010004qb40096qqbeclhn4ob6egt66sjfedpm4rrn18006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+    cf2f50b0-3c50-44dd-b624-45d72f01bbd3:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00edlkmspb3e9gmct1qdhqm6qo00400agrfeln78080
+      preview: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00edlkmspb3e9gmct1qdhqm6qo00400agrfeln78080
+    128cffdb-2a7b-491a-82e7-c2e3ffcfd26c:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre00dmqqbeclhn4ob6egt6orrectfn6r3fetfmcobcdhkmspo00400agrfeln78080
+      preview: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre00dmqqbeclhn4ob6egt6orrectfn6r3fetfmcobcdhkmspo00400agrfeln78080
+    5aafcbc5-f0c6-4eb2-9da5-5bcb552a299f:
+      name: §c§lTier II Money Pouch §7(Right Click)
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800ldlkmspb3e9gmct1qcln68pbibthmgpbjeg5000rkc5jgk007chkn6s3cc5sgg0049pgmqp80q5ti4pboehp628hqbdti4ojfdhi24ejke9qmab12d5q62r39cch3kpj1dhpmab12eln68pbidhkmspb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12cdnmorri48t24sj5cgh2o8jkcls788hq49a6ipbi414ki82ddtn6au90a1nnaor840h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24a2id5jmgt108dm6iorb54h7qn9c49q6au3k48t248jt14008j3fe9igg000000g1abr49ingt3ic4h3kmrr49h6ur3448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h6esj1f4h2o8jkcls788hq497n0pbe41q6gqbj41o6utb3d0g78rp0e9im6pb9epii0rbfdpini892fleio8jkcls788hq48h7q0000400agrfeln78080
+      preview: 1800020009km800ldlkmspb3e9gmct1qcln68pbibthmgpbjeg5000rkc5jgk007chkn6s3cc5sgg0049pgmqp80q5ti4pboehp628hqbdti4ojfdhi24ejke9qmab12d5q62r39cch3kpj1dhpmab12eln68pbidhkmspb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12cdnmorri48t24sj5cgh2o8jkcls788hq49a6ipbi414ki82ddtn6au90a1nnaor840h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24a2id5jmgt108dm6iorb54h7qn9c49q6au3k48t248jt14008j3fe9igg000000g1abr49ingt3ic4h3kmrr49h6ur3448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h6esj1f4h2o8jkcls788hq497n0pbe41q6gqbj41o6utb3d0g78rp0e9im6pb9epii0rbfdpini892fleio8jkcls788hq48h7q0000400agrfeln78080
+key:
+  id: legend
+item:
+  material: WITHER_SKELETON_SKULL
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false

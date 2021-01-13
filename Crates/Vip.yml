@@ -1,0 +1,101 @@
+name: §bVip Crate
+permission-required: false
+template: wander
+cooldown: 86400
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -26.0,52.0,11.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §e§l[V.I.P]
+    - §bCrate
+  effects:
+    type: HELIX
+    particle: FALLING_OBSIDIAN_TEAR
+rewards:
+  broadcast: true
+  min: 1
+  max: 1
+  list:
+    407bb84c-8fe5-43e3-bcb6-8d0405e588c6:
+      name: §2§lTier I Money Pouch §7(Right Click)
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i005bdd5n6aoric5j78ej5dpi6asivcdk6asrk18006t31cs5001r4d5pn0r31f440012ec5mma06nfch6au3ke9gi4eirfch64rrccgh3kt3ieliio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h68obiddfmesj5cln24b12ehingt1278h58qb5e8g4i82ddtn6au90a1nnaor840h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24a2id5jmgt108dm6iorb54h7qn9c49q6au3k48t248jt14008j3fe9igg000000g1abr49ingt3ic4h3kmrr49h6ur3448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h6esj1f4h2o8jkcls788hq497n0pbe41q6gqbj41o6utb3d0g78rp0e9im6pb9epii0rbfdpini892fleio8jkcls788hq48h7q0000400agrfeln78080
+      preview: a0000g002d5i005bdd5n6aoric5j78ej5dpi6asivcdk6asrk18006t31cs5001r4d5pn0r31f440012ec5mma06nfch6au3ke9gi4eirfch64rrccgh3kt3ieliio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h68obiddfmesj5cln24b12ehingt1278h58qb5e8g4i82ddtn6au90a1nnaor840h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24a2id5jmgt108dm6iorb54h7qn9c49q6au3k48t248jt14008j3fe9igg000000g1abr49ingt3ic4h3kmrr49h6ur3448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8j3dtm6ush278h6esj1f4h2o8jkcls788hq497n0pbe41q6gqbj41o6utb3d0g78rp0e9im6pb9epii0rbfdpini892fleio8jkcls788hq48h7q0000400agrfeln78080
+    d134be04-9d57-46ff-863d-f926de7cc5e3:
+      name: Lingering Potion
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400d6qqbeclhn4ob6egt6oqbectin4qbectfn0rrkd5nms2g00dq62po800350rrkd5nms00tdlkmspb3e9gmct1qedq74rrectfn4pb7cln6asj1ehkmurg00400agrfeln78080
+      preview: k00010004qb400d6qqbeclhn4ob6egt6oqbectin4qbectfn0rrkd5nms2g00dq62po800350rrkd5nms00tdlkmspb3e9gmct1qedq74rrectfn4pb7cln6asj1ehkmurg00400agrfeln78080
+    f30577ac-5139-4903-be3f-17725c4830fe:
+      name: Netherite Ingot
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800pdlkmspb3e9gmct1qdpin8q35e9kn8pavd5n6errk0400agrfeln78400
+      preview: 1800020009km800pdlkmspb3e9gmct1qdpin8q35e9kn8pavd5n6errk0400agrfeln78400
+    c7568641-75ee-432a-b417-3e7a50ec869b:
+      name: Wolf Spawn Egg
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0031mmirj5cdp62pjk79rmur36btpn0obndpfmapr70400agrfeln78080
+      preview: 5000080016ip0031mmirj5cdp62pjk79rmur36btpn0obndpfmapr70400agrfeln78080
+    2de26e0f-db86-4ded-8050-6a68994adb90:
+      name: Enchanted Golden Apple
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln78200
+      preview: 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln78200
+    7032c7f1-e7e3-47a9-b32a-aa5134d88091:
+      name: Diamond
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln78400
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln78400
+    98edacc3-e1be-4274-aaad-8d55f2717c0c:
+      name: Diamond Horse Armor
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip003lmmirj5cdp62pjk79i6iobddtn68nr8dtp76pavc5p6qrri0400agrfeln78080
+      preview: 5000080016ip003lmmirj5cdp62pjk79i6iobddtn68nr8dtp76pavc5p6qrri0400agrfeln78080
+    241320ea-9adf-42dc-924b-c2dcfe46e790:
+      name: Lingering Potion
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0039mmirj5cdp62pjk79m6irj7clp6irj7bto6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ejnc5q6asivc9p6aobkd1kmspo00400agrfeln78080
+      preview: 5000080016ip0039mmirj5cdp62pjk79m6irj7clp6irj7bto6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ejnc5q6asivc9p6aobkd1kmspo00400agrfeln78080
+    b41809a7-52a0-4271-85dd-e8197654ec56:
+      name: Golden Horse Armor
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400e6qqbeclhn4ob6egt6errcchimsnr8dtp76pavc5p6qrri0400agrfeln78080
+      preview: k00010004qb400e6qqbeclhn4ob6egt6errcchimsnr8dtp76pavc5p6qrri0400agrfeln78080
+    e740b8b7-02a1-44be-a629-dce6c50935f7:
+      name: Iron Horse Armor
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i006jdd5n6aoric5j78ej9e9nmsnr8dtp76pavc5p6qrri0400agrfeln78080
+      preview: a0000g002d5i006jdd5n6aoric5j78ej9e9nmsnr8dtp76pavc5p6qrri0400agrfeln78080
+    716c7072-a3dc-4e50-a42b-253611a561b8:
+      name: Lingering Potion
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i006jdd5n6aoric5j78ejcd5n6epbid5n6enrgdtq6irre18006t31cs4001igdtq6irre00b6qqbeclhn4ob6egt76r3fetfmcobcdhkmspo00400agrfeln78080
+      preview: a0000g002d5i006jdd5n6aoric5j78ejcd5n6epbid5n6enrgdtq6irre18006t31cs4001igdtq6irre00b6qqbeclhn4ob6egt76r3fetfmcobcdhkmspo00400agrfeln78080
+key:
+  id: vip
+item:
+  material: PLAYER_HEAD
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false

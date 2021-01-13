@@ -1,0 +1,114 @@
+name: §bExp Crate
+permission-required: false
+template: rows_3
+cooldown: 300
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -26.0,51.0,19.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §e§lEXP CRATE
+    - §cOpportunity to get
+    - §cEXP.
+  effects:
+    type: ERUPTION
+    particle: SPELL_WITCH
+rewards:
+  broadcast: true
+  min: 1
+  max: 3
+  list:
+    a63f49ee-7205-4eae-a881-670c8fb34865:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+    0997cdbb-aad4-4218-a6e8-6804e9e7e9f0:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+    dcc69eb8-d729-460c-8ec5-6b4517a5b5b5:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78800
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78800
+    16fdf39c-a277-46fb-85ef-79e0c1898607:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+    d9f89d88-60fc-47b5-86bc-81022751590b:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+    11ca2fa3-8b16-45d0-aaf8-ba097e083e47:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+    28191d72-6d10-484b-8787-d19819c95e6e:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+    79a36b69-557a-4c03-9a99-64d0b4cea79d:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78800
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78800
+    71e33473-ff92-485f-808c-0d805f3cdd6f:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78400
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78400
+    b8481db5-11cf-4d5b-b461-16bea5153766:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+    a4cb6956-3931-4e95-89ba-72ea7befa0e9:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78400
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78400
+    0169c5ab-c0ff-4c4c-a514-627197f915b6:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78200
+    820ddd69-ac52-40d4-8892-a4ceb10c5cb8:
+      name: Experience Bottle
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3kpboe1in4qb5dphmanr2dtq78r350400agrfeln78g00
+key:
+  id: exp
+item:
+  material: GRINDSTONE
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false

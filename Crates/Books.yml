@@ -1,0 +1,96 @@
+name: §bBooks Crate
+permission-required: false
+template: wander
+cooldown: 300
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -20.0,51.0,19.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §e§lBOOK CRATE
+    - §cOpportunity to get
+    - §cenchanted books.
+  effects:
+    type: VORTEX
+    particle: PORTAL
+rewards:
+  broadcast: true
+  min: 1
+  max: 1
+  list:
+    00cce5a0-3e28-4bd9-8ea6-fd12bfc06d55:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qe1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+      preview: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qe1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+    d4f7217e-5740-4190-8d08-b279c057a5d2:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800pdlkmspb3e9gmct1qcpkn4pave1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+      preview: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800pdlkmspb3e9gmct1qcpkn4pave1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+    a1033f23-9446-488d-a673-dd7dda347297:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800pdlkmspb3e9gmct1qcpim2t38clp5upj1dhm6irj708006r3mdg0020000400agrfeln78080
+      preview: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800pdlkmspb3e9gmct1qcpim2t38clp5upj1dhm6irj708006r3mdg0020000400agrfeln78080
+    47ecbf69-4460-4f2a-b7ec-088b315f43e1:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0031mmirj5cdp62pjk79imsor8c5n78pb4bth6urrb18006t31cs4g04ijehnn4pb48ln66q31dpq6qpbeehpgk000000gg002d5i006jdd5n6aoric5j78ej2dhgn6t2ve1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+      preview: 5000080016ip0031mmirj5cdp62pjk79imsor8c5n78pb4bth6urrb18006t31cs4g04ijehnn4pb48ln66q31dpq6qpbeehpgk000000gg002d5i006jdd5n6aoric5j78ej2dhgn6t2ve1p6ut35cdq6irre08006r3mdg0020000400agrfeln78080
+    822faa76-f859-4204-ab9a-a21273472c6d:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800odlkmspb3e9gmct1qcln66q31dpq6ap2vc9nmuqoa001n8ob714014krkdtp6ap25dphmgobeehmmarjkec500000044000j9cg01crb9dpim6sj1cpq3kpjidtpn8nrnc5m6mpbi08006r3mdg0020000400agrfeln78080
+      preview: 1800020009km800odlkmspb3e9gmct1qcln66q31dpq6ap2vc9nmuqoa001n8ob714014krkdtp6ap25dphmgobeehmmarjkec500000044000j9cg01crb9dpim6sj1cpq3kpjidtpn8nrnc5m6mpbi08006r3mdg0020000400agrfeln78080
+    d45fe621-b474-4e3b-afc3-ce64ce1e7e3e:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i0063dd5n6aoric5j78ej5dphmgobeehim8nr2dtnmm2g00dq62po900956t3fe9im8hbecdk62rjkdlimst3j1800000110004qb400bmqqbeclhn4ob6egt62sblc5fm2pj6d5n6it3p08006r3mdg0020000400agrfeln78080
+      preview: a0000g002d5i0063dd5n6aoric5j78ej5dphmgobeehim8nr2dtnmm2g00dq62po900956t3fe9im8hbecdk62rjkdlimst3j1800000110004qb400bmqqbeclhn4ob6egt62sblc5fm2pj6d5n6it3p08006r3mdg0020000400agrfeln78080
+    ca1ea55b-a753-41ba-b125-17fad6f00918:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01grb9dpim6sj1cpq3kpbecdk62rjkcli5uojfdtlgk003ehgme280299n8rricli4arj3d1gmst3dcln78soa000000880016ip002dmmirj5cdp62pjk79pmgobie1n6asrj08006r3mdg0020000400agrfeln78080
+      preview: 2g0004000j9cg01grb9dpim6sj1cpq3kpbecdk62rjkcli5uojfdtlgk003ehgme280299n8rricli4arj3d1gmst3dcln78soa000000880016ip002dmmirj5cdp62pjk79pmgobie1n6asrj08006r3mdg0020000400agrfeln78080
+    c8f0a2f2-ddfe-4cdb-8e29-93b0f7966622:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qeln64sj5c5lmirj708006r3mdg0020000400agrfeln78080
+      preview: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qeln64sj5c5lmirj708006r3mdg0020000400agrfeln78080
+    d1f5a90e-5541-4020-8957-21ee99cb1b9b:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qedkmoqqvehnnaor808006r3mdg0020000400agrfeln78080
+      preview: k00010004qb400c6qqbeclhn4ob6egt6arj3d1gmst35chfm4rrfdc5000rkc5jgi00iadq6usj5ch2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qedkmoqqvehnnaor808006r3mdg0020000400agrfeln78080
+    7f2ba1e7-98c3-486c-a075-7be190e6b8d9:
+      name: Enchanted Book
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0031mmirj5cdp62pjk79imsor8c5n78pb4bth6urrb18006t31cs4g04ijehnn4pb48ln66q31dpq6qpbeehpgk000000gg002d5i005bdd5n6aoric5j78ej6d5p6anr1edo6aork08006r3mdg0020000400agrfeln78080
+      preview: 5000080016ip0031mmirj5cdp62pjk79imsor8c5n78pb4bth6urrb18006t31cs4g04ijehnn4pb48ln66q31dpq6qpbeehpgk000000gg002d5i005bdd5n6aoric5j78ej6d5p6anr1edo6aork08006r3mdg0020000400agrfeln78080
+key:
+  id: books
+item:
+  material: LECTERN
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false

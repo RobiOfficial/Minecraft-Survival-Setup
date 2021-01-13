@@ -1,0 +1,72 @@
+name: §bBrewing Crate
+permission-required: false
+template: csgo
+cooldown: 300
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -23.0,51.0,19.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §e§lBREWING CRATE
+    - §cOpportunity to get
+    - §cpotions.
+  effects:
+    type: VORTEX
+    particle: WHITE_ASH
+rewards:
+  broadcast: true
+  min: 1
+  max: 1
+  list:
+    590d91b1-7034-44f9-a515-e807a6775d57:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre00b6qqbeclhn4ob6egt6sqb7d1q5utj9edkmurg00400agrfeln78080
+      preview: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre00b6qqbeclhn4ob6egt6sqb7d1q5utj9edkmurg00400agrfeln78080
+    63d22c93-93a0-4479-a6e0-b1cbbedd928a:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre008mqqbeclhn4ob6egt6opb1e1kmspo00400agrfeln78080
+      preview: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre008mqqbeclhn4ob6egt6opb1e1kmspo00400agrfeln78080
+    af39cd61-f526-44da-9142-0629ed9b447a:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0021mmirj5cdp62pjk79o6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ej6d5p6anriclpmisrkc5n66p800400agrfeln78080
+      preview: 5000080016ip0021mmirj5cdp62pjk79o6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ej6d5p6anriclpmisrkc5n66p800400agrfeln78080
+    672bd172-544d-4413-8b3b-aea7be21035e:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00jdlkmspb3e9gmct1qedrmipjkdpin6so00400agrfeln78080
+      preview: k00010004qb40086qqbeclhn4ob6egt70rrkd5nms2g00dq62po800350rrkd5nms00jdlkmspb3e9gmct1qedrmipjkdpin6so00400agrfeln78080
+    eb5f9963-7a5f-460a-b93d-a89503005035:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0021mmirj5cdp62pjk79o6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ejnc5q6asivc9p6aobkd1kmspo00400agrfeln78080
+      preview: 5000080016ip0021mmirj5cdp62pjk79o6ut39dtn0k003ehgme2000p86ut39dtn006bdd5n6aoric5j78ejnc5q6asivc9p6aobkd1kmspo00400agrfeln78080
+    af9bd69d-0d50-4f4e-ba33-0c2f97c44b1b:
+      name: Potion
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre008mqqbeclhn4ob6egt6gpb1dhkmspo00400agrfeln78080
+      preview: a0000g002d5i0043dd5n6aoric5j78ejgdtq6irre18006t31cs4001igdtq6irre008mqqbeclhn4ob6egt6gpb1dhkmspo00400agrfeln78080
+key:
+  id: brewing
+item:
+  material: BREWING_STAND
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false

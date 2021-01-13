@@ -1,0 +1,101 @@
+name: §bDaily Crate
+permission-required: false
+template: none
+cooldown: 86400
+attached-citizens: ''
+open-cost:
+  vault: 0.0
+  exp: 0
+block:
+  locations:
+  - -29.0,51.0,17.0,0.0,0.0,world
+  pushback:
+    enabled: true
+  hologram:
+    enabled: true
+    text:
+    - §a§l§nDAILY CRATE
+    - §7(/kit daily)
+  effects:
+    type: PULSAR
+    particle: NOTE
+rewards:
+  broadcast: false
+  min: 1
+  max: 1
+  list:
+    f1ac35d8-a54c-461d-8f18-541cfa62d8ea:
+      name: Starry Night
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip0035mmirj5cdp62pjk79j6isj5etnn4qqve9nm6qr5eg5000rkc5jgk0098pkn4pbndtp6mso10034cr39ctk780890054au3gdhnn6qbfdppgk000000g2004ahsn0p821c00khj1chik6rrcdtp76000000g099hi85g01i3dtm6usjj000000g0rr7ik07bh12020078pm6iorbclp020800la74ob9dg0g000a003m8qbje1m62u880024sobdck02qup2cls78sj148t5mup2ehingt1278h56t31e9p7i82ed5jmgt12fleio8jkcls788hq48h7q0000400agrfeln78080
+      preview: 5000080016ip0035mmirj5cdp62pjk79j6isj5etnn4qqve9nm6qr5eg5000rkc5jgk0098pkn4pbndtp6mso10034cr39ctk780890054au3gdhnn6qbfdppgk000000g2004ahsn0p821c00khj1chik6rrcdtp76000000g099hi85g01i3dtm6usjj000000g0rr7ik07bh12020078pm6iorbclp020800la74ob9dg0g000a003m8qbje1m62u880024sobdck02qup2cls78sj148t5mup2ehingt1278h56t31e9p7i82ed5jmgt12fleio8jkcls788hq48h7q0000400agrfeln78080
+    ab5a7fc3-f757-4746-acbb-b62942effd2b:
+      name: Solar Wind
+      chance: 25.0
+      cmds: []
+      item: k00010004qb400cmqqbeclhn4ob6egt6cqbiclrmusjbbtp6uorbclq0k003ehgme2g01536isj5etnn4qrj0400chjcd5jmgt011400khboe1m6usr9dtn762g0000060800ha7is35045g02i6c5i6agrfdhnn4so00000205j64m0m0068dnmorriec00000203fcuag0te4480800t36oqb3ddin408004008l3pe1ig02o019362p358dnmorriec00000102pj2b0b00346rrcdtp7600000101nmf580en2240400al3ic5kmo08004008l3pe1ig42o019362p358dnmorriec00000103c8360b00346rrcdtp7600000101cph5g07mbtu0400al3ic5kmo080005001r4d5pn0r31f440012ec5mma01bfch6au3ke9gi4eirfch78pboegh3k8ijdtm62sh0atkmsp12fleio8jkcls788hq48h7q0000400agrfeln780g0
+      preview: k00010004qb400cmqqbeclhn4ob6egt6cqbiclrmusjbbtp6uorbclq0k003ehgme2g01536isj5etnn4qrj0400chjcd5jmgt011400khboe1m6usr9dtn762g0000060800ha7is35045g02i6c5i6agrfdhnn4so00000205j64m0m0068dnmorriec00000203fcuag0te4480800t36oqb3ddin408004008l3pe1ig02o019362p358dnmorriec00000102pj2b0b00346rrcdtp7600000101nmf580en2240400al3ic5kmo08004008l3pe1ig42o019362p358dnmorriec00000103c8360b00346rrcdtp7600000101cph5g07mbtu0400al3ic5kmo080005001r4d5pn0r31f440012ec5mma01bfch6au3ke9gi4eirfch78pboegh3k8ijdtm62sh0atkmsp12fleio8jkcls788hq48h7q0000400agrfeln780g0
+    5bc6d425-8f67-4652-9df2-1ef64289bee8:
+      name: Angry Creeper
+      chance: 25.0
+      cmds: []
+      item: a0000g002d5i006bdd5n6aoric5j78ej6d5p6atrfe9llusjfcdlmat0a001n8ob71800ihj9e9inerriddpg20068pm6ipr8eg0gi00a8ls70r3fedkmurjj1800000104008l3pe1ig62o00p1mur3fe9pg0000040b6c9c1c00khj1chik6rrcdtp76000000g0eqh380002g00ti6isrgdhgni2000h762rb500n7m8j5f1q74o9279dnm8jkcls788hq490msprif4g46sj5clo6ash2fleio8jkcls788hq48h7q0000400agrfeln78080
+      preview: a0000g002d5i006bdd5n6aoric5j78ej6d5p6atrfe9llusjfcdlmat0a001n8ob71800ihj9e9inerriddpg20068pm6ipr8eg0gi00a8ls70r3fedkmurjj1800000104008l3pe1ig62o00p1mur3fe9pg0000040b6c9c1c00khj1chik6rrcdtp76000000g0eqh380002g00ti6isrgdhgni2000h762rb500n7m8j5f1q74o9279dnm8jkcls788hq490msprif4g46sj5clo6ash2fleio8jkcls788hq48h7q0000400agrfeln78080
+    740ea510-e7d7-4ab5-90e2-117db97af42e:
+      name: Iron Sword
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800kdlkmspb3e9gmct1qd5p6urivedrmusj418006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+      preview: 1800020009km800kdlkmspb3e9gmct1qd5p6urivedrmusj418006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+    04bb51a6-30ca-4bfd-b6db-c6cf04657da4:
+      name: Apple
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800fdlkmspb3e9gmct1qc5o70r350400agrfeln78800
+      preview: 1800020009km800fdlkmspb3e9gmct1qc5o70r350400agrfeln78800
+    f16790d7-0e2e-40b4-af64-1fd66904fe53:
+      name: Diamond
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln780g0
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3kp39c5mmurj40400agrfeln780g0
+    9c932ec9-8f87-4c32-afd8-2a2192c2ed7e:
+      name: Coal
+      chance: 25.0
+      cmds: []
+      item: 5000080016ip001pmmirj5cdp62pjk79hmuobc0400agrfeln78100
+      preview: 5000080016ip001pmmirj5cdp62pjk79hmuobc0400agrfeln78100
+    847ae099-b0ac-44fc-91b6-64451de75e37:
+      name: Iron Pickaxe
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg01crb9dpim6sj1cpq3kqbidtn5us39cdlm2u3518006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+      preview: 2g0004000j9cg01crb9dpim6sj1cpq3kqbidtn5us39cdlm2u3518006t31cs1g01i4c5mm2pr5000000000400agrfeln78080
+    a9b1ec43-5fc0-4f1f-b4e5-3f526f6751c9:
+      name: Bread
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800fdlkmspb3e9gmct1qc9p6aob40400agrfeln78200
+      preview: 1800020009km800fdlkmspb3e9gmct1qc9p6aob40400agrfeln78200
+    844dd680-bc12-4380-ae77-7b2ccade0c29:
+      name: Wheat
+      chance: 25.0
+      cmds: []
+      item: 1800020009km800fdlkmspb3e9gmct1qetk6aobk0400agrfeln78400
+      preview: 1800020009km800fdlkmspb3e9gmct1qetk6aobk0400agrfeln78400
+    9e1554ea-c06f-4c0e-bbca-486c5e1e3e92:
+      name: Enchanted Golden Apple
+      chance: 25.0
+      cmds: []
+      item: 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln780o0
+      preview: 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln780o0
+key:
+  id: daily
+item:
+  material: CLOCK
+  amount: 1
+  durability: 0
+  enchanted: false
+  item-flags: []
+  unbreakable: false
