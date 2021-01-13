@@ -1,9 +1,8 @@
 # Minecraft Survival Server Setup
 This setup was created for server owners who are looking for a ready-to-go Survival Server setup for Minecraft multiplayer. It is free to use and feel free to make changes as you wish. 
-**We lost the final V1 version of this setup! We currently released everything based on our previous map and will update this step-by-step so we don't lose everything again! From here we are going to start building V1!**
 > If you have any problems using this setup or you would like to make suggestions then please add these to issues. This project is just a hobby project which means that I will update it whenever I feel to do so and I will support any player who uses my setup (if I have time to do so). This GitHub page will be updated if anything changes.
 * Native version of this setup is **Minecraft 1.16.4**. Please don't use older versions since it just would not work.
-* Setup version: **0.1.0-beta**
+* Setup version: **1.0**
 
 # Helpful links
 * Suggestions and issues: https://github.com/RobiOfficial/Minecraft-Survival-Setup/issues 
@@ -12,9 +11,9 @@ This setup was created for server owners who are looking for a ready-to-go Survi
 
 # Spawnpoint
 This spawn is built by **LewCziter**
-Link: https://www.planetminecraft.com/project/island-village-4817225/
+Link: https://www.planetminecraft.com/project/free-simple-medieval-spawn/
 > This map has been modified to create crates.
-![spawn](https://i.imgur.com/NsL8eKC.png)
+![spawnpoint](https://i.imgur.com/5CLXOgn.png)
 
 ### Shop menu
 ![shop](https://i.imgur.com/B8Y0RNl.png)
@@ -38,6 +37,7 @@ There are 6 kits (3 for donors and 3 for players)
 | Vip | Donor | 36 | /kit vip, /tpahere, /helpop, /hat + Shop additions and crate keys. |
 | Legend | Donor | 43 | All vip permissions, shop additions and crate keys + /kit legend, /feed, /heal, /back |
 | Premium | Donor | 52 | All legend permissions, keys and full access to shop + /gamemode, /jump, /god, /kit premium |
+| Helper | Staff | 54 | Low level moderation access, low level report tickets system access |
 | Moderator | Staff | 58 | Medium level moderation access, medium level report tickets access (more settings) |
 | Admin | Staff | X | Maximum level moderation access, maximum level report tickets access |
 
@@ -59,7 +59,7 @@ Crates are in three categories: **Basic crates, Player crates, Donor crates**.
 | Legend | Donor | Legend rank + /kit legend |
 | Premium | Donor | Premium rank + /kit premium |
 
-![crate](https://i.imgur.com/e7pJCZ3.png)
+![crates](https://i.imgur.com/D3Wqymj.png)
 
 # Reports
 Players can report online and offline players (it depends on the config) with a cooldown and a minimum amount of characters. If they don't specify any reason, a GUI (chest) is opened to select one of the defaults (configurable) reasons.
