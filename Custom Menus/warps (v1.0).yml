@@ -1,0 +1,12 @@
+'warps':
+  command: /warps
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  iconmenu_title: 'Warps'
+  iconmenu_size: 9
+  iconmenu_commands:
+  - '0:CHEST:0:/warp Crates:&3Crates'
+  permission-required: false
+  permission-node: mycommand.cmd.warps
+  permission-error: "&a$player! , &2You can't use this command!"
