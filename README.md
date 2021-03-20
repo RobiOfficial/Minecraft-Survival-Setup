@@ -1,8 +1,8 @@
 # Minecraft Survival Server Setup
 This setup was created for server owners who are looking for a ready-to-go Survival Server setup for Minecraft multiplayer. It is free to use and feel free to make changes as you wish. 
 > If you have any problems using this setup or you would like to make suggestions then please add these to issues. This project is just a hobby project which means that I will update it whenever I feel to do so and I will support any player who uses my setup (if I have time to do so). This GitHub page will be updated if anything changes.
-* Native version of this setup is **Minecraft 1.16.4**. Please don't use older versions since it just would not work.
-* Setup version: **1.0.0**
+* Native version of this setup is **Minecraft 1.16.5**. Please don't use older versions since it just would not work.
+* Setup version: **1.1**
 
 # Helpful links
 * Suggestions and issues: https://github.com/RobiOfficial/Minecraft-Survival-Setup/issues 
@@ -75,8 +75,11 @@ When a report is sent, online staff is alerted by a clickable message that opens
 ### User menu
 ![user](https://i.imgur.com/NFqVWhj.png)
 
+# AdvancedBan
+Since v1.1 server has a new plugin - AdvancedBan.
+![advancedban](https://proxy.spigotmc.org/217fb263e9e70ac47b94242e73dd352fe39bfbd5?url=http%3A%2F%2Fi.imgur.com%2F1mKUgoE.png)
+
 # Additional information
 * Server has **Jobs** plugin. Command: /jobs
-* Server has a **TAB** plugin. You can modify TAB from TAB folder (control panel).
 * Server has **Grief Prevention** system. Use /help command to get more information.
 * Players can use **Auction** system with /ah command.
