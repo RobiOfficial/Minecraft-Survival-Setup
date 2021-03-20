@@ -77,7 +77,7 @@ When a report is sent, online staff is alerted by a clickable message that opens
 
 # AdvancedBan
 Since v1.1 server has a new plugin - AdvancedBan.
-![advancedban](https://proxy.spigotmc.org/217fb263e9e70ac47b94242e73dd352fe39bfbd5?url=http%3A%2F%2Fi.imgur.com%2F1mKUgoE.png)
+![advancedban](https://www.thecommandbrick.net/wp-content/uploads/2019/10/Immagine-AdvancedBan-e-Ban-Classico.png)
 
 # Additional information
 * Server has **Jobs** plugin. Command: /jobs
