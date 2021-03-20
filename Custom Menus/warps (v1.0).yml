@@ -7,6 +7,7 @@
   iconmenu_size: 9
   iconmenu_commands:
   - '0:CHEST:0:/warp Crates:&3Crates'
+  - '1:BOOK:1:/warp Enchantment:&3Enchantment'
   permission-required: false
   permission-node: mycommand.cmd.warps
   permission-error: "&a$player! , &2You can't use this command!"
